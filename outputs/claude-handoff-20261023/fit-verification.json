@@ -1,0 +1,225 @@
+{
+  "currentClips": [
+    {
+      "id": "club-v2_walk",
+      "frames": 4,
+      "pool": 2712,
+      "source": "outputs/monster-redraw-v2/club-v2/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "torch_walk",
+      "frames": 4,
+      "pool": 2515,
+      "source": "outputs/monster-redraw-v2/torch/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "wooden_shield_walk",
+      "frames": 4,
+      "pool": 2705,
+      "source": "outputs/monster-redraw-v2/wooden_shield/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_pyro_walk",
+      "frames": 4,
+      "pool": 323,
+      "source": "outputs/monster-redraw-v2/slime_small_pyro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_hydro_walk",
+      "frames": 4,
+      "pool": 303,
+      "source": "outputs/monster-redraw-v2/slime_small_hydro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_cryo_walk",
+      "frames": 4,
+      "pool": 474,
+      "source": "outputs/monster-redraw-v2/slime_small_cryo/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_electro_walk",
+      "frames": 4,
+      "pool": 369,
+      "source": "outputs/monster-redraw-v2/slime_small_electro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_anemo_walk",
+      "frames": 4,
+      "pool": 486,
+      "source": "outputs/monster-redraw-v2/slime_small_anemo/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_dendro-v2_walk",
+      "frames": 4,
+      "pool": 856,
+      "source": "outputs/monster-redraw-v2/slime_small_dendro-v2/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_pyro_walk",
+      "frames": 4,
+      "pool": 814,
+      "source": "outputs/monster-redraw-v2/slime_large_pyro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_hydro_walk",
+      "frames": 4,
+      "pool": 785,
+      "source": "outputs/monster-redraw-v2/slime_large_hydro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_cryo_walk",
+      "frames": 4,
+      "pool": 1422,
+      "source": "outputs/monster-redraw-v2/slime_large_cryo/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_electro_walk",
+      "frames": 4,
+      "pool": 689,
+      "source": "outputs/monster-redraw-v2/slime_large_electro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_anemo_walk",
+      "frames": 4,
+      "pool": 862,
+      "source": "outputs/monster-redraw-v2/slime_large_anemo/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_dendro_walk",
+      "frames": 4,
+      "pool": 1643,
+      "source": "outputs/monster-redraw-v2/slime_large_dendro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_mutant_electro_walk",
+      "frames": 4,
+      "pool": 1001,
+      "source": "outputs/monster-redraw-v2/slime_large_mutant_electro/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "ruin_guard_walk",
+      "frames": 4,
+      "pool": 4207,
+      "source": "outputs/monster-redraw-v2/ruin_guard-v5/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_small_geo-v2_walk",
+      "frames": 4,
+      "pool": 662,
+      "source": "outputs/monster-redraw-v2/slime_small_geo-v2/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_geo-v2_walk",
+      "frames": 4,
+      "pool": 1242,
+      "source": "outputs/monster-redraw-v2/slime_large_geo-v2/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "mitachurl_wood_shield-v3_walk",
+      "frames": 4,
+      "pool": 2843,
+      "source": "outputs/monster-redraw-v2/mitachurl_wood_shield-v7/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "mitachurl_electro_axe-v2_walk",
+      "frames": 4,
+      "pool": 2949,
+      "source": "outputs/monster-redraw-v2/mitachurl_electro_axe-v2/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "mitachurl_fire_axe-v2_walk",
+      "frames": 4,
+      "pool": 3220,
+      "source": "outputs/monster-redraw-v2/mitachurl_fire_axe-v3/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "lawachurl_cryo_walk",
+      "frames": 4,
+      "pool": 3880,
+      "source": "outputs/monster-redraw-v2/lawachurl_cryo/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "lawachurl_electro_walk",
+      "frames": 4,
+      "pool": 3536,
+      "source": "outputs/monster-redraw-v2/lawachurl_electro-v3/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "hilichurl_pyro_archer-v2_walk",
+      "frames": 4,
+      "pool": 2203,
+      "source": "outputs/monster-redraw-v2/hilichurl_pyro_archer-v2/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "samachurl_anemo_walk",
+      "frames": 4,
+      "pool": 3582,
+      "source": "outputs/monster-redraw-v2/samachurl_anemo/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "samachurl_hydro_walk",
+      "frames": 4,
+      "pool": 3394,
+      "source": "outputs/monster-redraw-v2/samachurl_hydro/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "ruin_grader_walk",
+      "frames": 4,
+      "pool": 5635,
+      "source": "outputs/monster-redraw-v2/ruin_grader/walk/32色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "ruin_hunter_walk",
+      "frames": 4,
+      "pool": 3819,
+      "source": "outputs/monster-redraw-v2/ruin_hunter/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    },
+    {
+      "id": "slime_large_geo_bare_walk",
+      "frames": 4,
+      "pool": 857,
+      "source": "outputs/monster-redraw-v2/slime_large_geo_bare/walk/24色/animation.frames.json",
+      "rectanglesValidated": true
+    }
+  ],
+  "currentFrames": 120,
+  "retainedMagePaths": [
+    "outputs/monster-walk-roster-v1/cryo_mage_walk/animation.frames.json",
+    "outputs/monster-walk-roster-v1/electro_mage_walk/animation.frames.json"
+  ],
+  "fittedExports": 398,
+  "luaBytes": 65951006,
+  "luaSha256": "0ebba02d6d0642e93d3cbef546d6d0299668edfb32aaa69122beb1c3c5a7b551",
+  "luaSyntaxExecuted": false,
+  "newSimulatorTest": false,
+  "newDeviceTest": false
+}

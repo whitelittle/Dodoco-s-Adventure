@@ -1,0 +1,15 @@
+{
+  "archive": "嘟嘟可大冒险_完整工程_Claude交接_20261023.zip",
+  "bytes": 1104866550,
+  "sha256": "581848db25c6cf58f5634dd98e1a3033acef2ba1d7c535b38e85b3adf46323bb",
+  "files": 10875,
+  "allFileHashesVerified": true,
+  "sourceBytes": 3130602364,
+  "excluded": [
+    ".git/",
+    "outputs/map-2x2-optimized/tools/__pycache__/",
+    "scripts/__pycache__/",
+    "work/__pycache__/",
+    "迁移备份/旧目录余留_20261001/outputs/map-2x2-optimized/tools/__pycache__/"
+  ]
+}
